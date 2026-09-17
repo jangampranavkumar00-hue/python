@@ -1,0 +1,5 @@
+t1=(20,40,60,80)
+print(t1.index(20))
+print(t1.index(40))
+print(t1.index(60))
+print(t1.index(80))
